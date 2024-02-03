@@ -1,0 +1,57 @@
+body{
+    background-image: url('bg.jpg');
+}
+.heading{
+    border: 10px;
+    margin: 10px;
+    text-align: center;
+    padding-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+.top_left{
+    float: left;
+}
+.top_right{
+    float: right;
+}
+.s2{
+    font-size: xx-large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 100px;
+    padding-left: 40px;
+}
+.s2_books{
+    text-align: left;
+    padding-left: 100px;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif    ;
+    border: 4px solid blue;
+    border-radius: 100px;
+    background: black;
+    padding-right: 10em;
+}
+.s2_links{
+    margin: 16px;
+}
+.p_language{
+    font-size: xx-large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 100px;
+    padding-left: 40px;
+    padding-right: 16em;
+}
+.p_language_books{
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 4px solid blue;
+    border-radius: 100px;
+    background: black;
+    padding-left: 12%;
+}
+.p_language_links{
+    margin: 14px;
+}
+a{
+    color: aqua;
+}
